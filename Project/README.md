@@ -1,0 +1,1 @@
+This Project uses a glut library and some headers. The make file is already provided you can build a project simply by executing the Make file make sure you have all the necessary dependencies 
